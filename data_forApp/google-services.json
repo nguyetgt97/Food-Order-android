@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "628913550705",
+    "project_id": "foodorder-7a6d1",
+    "storage_bucket": "foodorder-7a6d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628913550705:android:a11da830bc53fa43aab2d0",
+        "android_client_info": {
+          "package_name": "android.bignerdranch.foodorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628913550705-32ujckvsujco6aq8odhbd6sc3q40oaei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.bignerdranch.foodorder",
+            "certificate_hash": "a7e13c782a3db65ebf5b1f1ff245afaa446642cd"
+          }
+        },
+        {
+          "client_id": "628913550705-t5f7oq47ij8qlj0diq9kcfc5sd2isqi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzoA_ghftQWKL_G_YawkxQxV2leJzpjSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628913550705-t5f7oq47ij8qlj0diq9kcfc5sd2isqi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
